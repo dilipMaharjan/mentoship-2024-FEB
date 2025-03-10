@@ -8,15 +8,6 @@ Repo for tracking learning
 
 ---
 
-### 📌 **README.md**  
-
-```markdown
-# 🚀 Project Name
-
-Welcome to **Project Name**! Follow these steps to contribute effectively.
-
----
-
 ## 🛠️ How to Fork, Create a Branch, and Raise a PR  
 
 ### 1️⃣ **Fork the Repository**  
