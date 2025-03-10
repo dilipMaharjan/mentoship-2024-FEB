@@ -9,11 +9,20 @@ Repo for tracking learning
 
 ### **2️⃣ Clone Your Fork**  
 ```bash
-git clone https://github.com/YOUR-USERNAME/repo-name.git
-cd repo-name
+git clone https://github.com/dilipMaharjan/mentoship-2024-FEB.git
+cd mentoship-2024-FEB
 ```
 
 ### **3️⃣ Create a New Branch**  
+- Before updating, make sure you have the latest branches:
+  ```
+  git fetch --all
+  ```
+- Switch to the Child Branch (not main)
+ ```
+git checkout initial-setup-and-understanding
+
+```
 - Follow this **branch naming convention**:  
   ```
   <JIRA-TICKET-NUMBER>-<short-title>-<your-github-username>
