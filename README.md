@@ -9,8 +9,8 @@ Repo for tracking learning
 
 ### **2️⃣ Clone Your Fork**  
 ```bash
-git clone https://github.com/dilipMaharjan/mentoship-2024-FEB.git
-cd mentoship-2024-FEB
+git clone https://github.com/dilipMaharjan/mentoship-2025-FEB.git
+cd mentoship-2025-FEB
 ```
 
 ### **3️⃣ Create a New Branch**  
